@@ -13,6 +13,11 @@
       Facebook : [darsh.modi.97](https://www.facebook.com/darsh.modi.97/)      
       Instagram : [darsh_modi97](https://www.instagram.com/darsh_modi97/)      
       
-<img src="https://github-readme-stats.vercel.app/api?username=darshmodi97&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=darshmodi97&&show_icons=true&disable_animations=false&theme=highcontrast"/>   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshmodi97&hide=Less&layout=default)](https://github.com/darshmodi97/github-readme-stats)
+
 
 > **As a programmer, What you develop today that would be automated tomorrow.**
+
+<!-- customize stats: &title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+theme: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+ -->
