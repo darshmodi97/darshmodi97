@@ -8,10 +8,11 @@
 - 😃 Interest : Machine Learning, Data science
 - 🏠 Home Town : Ahmedabad
 - 📫 How to reach me:    
+      LinkedIn : [Darsh Modi](https://www.linkedin.com/in/darsh-modi-5a993a150)  
       Twitter : [@modi_darsh](https://twitter.com/modi_darsh)   
       Facebook : [darsh.modi.97](https://www.facebook.com/darsh.modi.97/)      
       Instagram : [darsh_modi97](https://www.instagram.com/darsh_modi97/)      
-
+      
 <img src="https://github-readme-stats.vercel.app/api?username=darshmodi97&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 > **As a programmer, What you develop today that would be automated tomorrow.**
